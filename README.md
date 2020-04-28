@@ -1,7 +1,7 @@
 # Othello AI RLplayer
 A Reinforcement learning player for the Othello or Reversi game.
 Implementation of Q learning to play othello. Uses a double deep neural network and backpropagation for the Q function.
-Implemented also Prioritized Experience Replay as memory.
+Implemented also Prioritized Experience Replay as memory. Implemented in python 3 with use of TensorFlow and Keras.
 This was done as a project for a class in artificial intelligence in Unibo.
 
 Game and SmallGame reprensent the game ambient, for a 8x8 board and a 4x4 board.
